@@ -35,6 +35,6 @@ Function name : greeting
 Arguments: None
 Number of statements in function body: 1
 Returned Values: None
-Function Work: Simply printing "Welcome to Python".
+Function Work: Simply printing "Welcome to Python" as a greeting statement.
 """
 
