@@ -1,7 +1,5 @@
 """
-If the input is "nectarine", output shld be "n(e)ct(a)r(i)n(e)"...
-
-Basically, enclose all vowels with braces
+Program to enclose all vowels with round braces in a string input by user.
 """
 
 

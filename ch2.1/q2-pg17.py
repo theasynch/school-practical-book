@@ -1,11 +1,9 @@
 """
-If the input is "nectarine", output shld be "nctrn"...
-
-Basically to remove all the vowels of the word.
+Program to remove vowels from a string entered by an user.
 """
 
 
-vowels = ["a","e","i","o","u"]
+vowels = "aeiouAEIOU"
 
 a = input("Enter a string:")
 result = [letter for letter in a if letter.lower() not in vowels] 
