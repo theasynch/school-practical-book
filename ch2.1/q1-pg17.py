@@ -1,5 +1,5 @@
 """
-Q1) If a="blueberry"
+Program to understand indicing a string which is a list in disguise.
 """
 
 a = "blueberry"
